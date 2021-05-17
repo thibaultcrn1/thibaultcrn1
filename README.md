@@ -3,7 +3,7 @@
 ## Young developer in his spare time 
 - 🔭 I’m currently working on - Discord Walter'BOT
 - 🌱 I’m currently learning - React.js & Angular.js
-- 🥅 2020 Goal - Become even stronger 
+- 🥅 2021 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
