@@ -2,7 +2,7 @@
 
 ## Young developer in his spare time 
 - 🔭 I’m currently working on - Discord Walter'BOT
-- 🌱 I’m currently learning - React.js or Angular.js
+- 🌱 I’m currently learning - React.js & Angular.js
 - 🥅 2020 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
