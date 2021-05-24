@@ -7,7 +7,8 @@
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Thibaultcrn1's github stats](https://github-readme-stats.vercel.app/api?username=thibaultcrn1&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+![Stats](https://github-readme-stats.vercel.app/api?username=thibaultcrn1&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultcrn1&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
 
 ## Connect with me:
 [<img align="left" alt="Thibaultcrn1 | aralium.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
