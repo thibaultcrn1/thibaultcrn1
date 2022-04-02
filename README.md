@@ -1,9 +1,9 @@
 ### Hi, I'm Thibault <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Young developer in his spare time 
-- 🔭 I’m currently working on - Discord Walter'BOT
-- 🌱 I’m currently learning - React.js & Angular.js
-- 🥅 2021 Goal - Become even stronger 
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning - React.js
+- 🥅 2022 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
