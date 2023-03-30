@@ -3,7 +3,7 @@
 ## Young developer in his spare time 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning - React.js
-- 🥅 2022 Goal - Become even stronger 
+- 🥅 2023 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
