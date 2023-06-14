@@ -2,7 +2,7 @@
 
 ## Young developer in his spare time 
 - 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning - React.js
+- 🌱 I’m currently learning - Php, Electron.js, Express.js
 - 🥅 2023 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
