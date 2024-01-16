@@ -2,8 +2,8 @@
 
 ## Young developer in his spare time 
 - 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning - Php, Electron.js, Express.js
-- 🥅 2023 Goal - Become even stronger 
+- 🌱 I’m currently learning - Spring Boot, Next.js, Express.js
+- 🥅 2024 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
