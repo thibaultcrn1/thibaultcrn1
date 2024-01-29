@@ -1,8 +1,8 @@
 ### Hi, I'm Thibault <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Young developer in his spare time 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning - Spring Boot, Next.js, Express.js
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning - Spring Boot, Next.js, React.js
 - 🥅 2024 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
