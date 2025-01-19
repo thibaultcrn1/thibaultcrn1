@@ -3,7 +3,7 @@
 ## Young developer in his spare time 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning - Nest.js, Next.js, TailwindCSS
-- 🥅 2024 Goal - Become even stronger 
+- 🥅 2025 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
