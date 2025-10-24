@@ -1,8 +1,8 @@
 ### Hi, I'm Thibault <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Young developer in his spare time 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning - Nest.js, Next.js, TailwindCSS
+- 🔭 I’m currently working on Fortify
+- 🌱 I’m currently learning - Spring Boot
 - 🥅 2025 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
