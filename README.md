@@ -3,7 +3,7 @@
 ## Young developer in his spare time 
 - 🔭 I’m currently working on Fortify
 - 🌱 I’m currently learning - Spring Boot
-- 🥅 2026 Goal - Become even stronger 
+- 🥅 2025 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
@@ -11,12 +11,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaultcrn1&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
 
 ## Connect with me:
-[<img align="left" alt="Thibaultcrn1 | aralium.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Thibaultcrn1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Thibaultcrn1 | thibault-carron.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Thibaultcrn1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thibaultcrn1 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 <br />
 
 <!-- This section you create this variables that are used above -->
 [website]: https://thibault-carron.fr/
-[instagram]: https://www.instagram.com/thibaultcrn1/
+[linkedin]: https://www.linkedin.com/in/thibaultcrn1/
 [Discord]: https://discord.gg/RSfcrH29fm
