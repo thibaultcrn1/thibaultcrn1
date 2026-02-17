@@ -1,8 +1,8 @@
 ### Hi, I'm Thibault <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Young developer in his spare time 
-- 🔭 I’m currently working on Fortify
-- 🌱 I’m currently learning - Spring Boot
+- 🔭 I’m currently working on Storix
+- 🌱 I’m currently learning - Rust
 - 🥅 2026 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
