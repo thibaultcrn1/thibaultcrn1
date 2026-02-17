@@ -3,7 +3,7 @@
 ## Young developer in his spare time 
 - 🔭 I’m currently working on Fortify
 - 🌱 I’m currently learning - Spring Boot
-- 🥅 2025 Goal - Become even stronger 
+- 🥅 2026 Goal - Become even stronger 
 
 <!-- Thibault means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
