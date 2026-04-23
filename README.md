@@ -1,7 +1,7 @@
 ### Hi, I'm Thibault <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Young developer in his spare time 
-- 🔭 I’m currently working on Storix
+## Fullstack Developer
+- 🔭 I’m currently working on Baqora
 - 🌱 I’m currently learning - Rust
 - 🥅 2026 Goal - Become even stronger 
 
